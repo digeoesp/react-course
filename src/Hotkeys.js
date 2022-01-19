@@ -55,3 +55,9 @@
 // export default Custom;
 
 // //////////////////////////////////////////
+// import React from 'react';
+
+// export const Hotkeys = () => {
+//   return <div></div>;
+// };
+
